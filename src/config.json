@@ -1,0 +1,13 @@
+{
+  "config": {
+    "restapi": {
+      "login": "http://localhost:8080/api/user/users",
+      "settings": "http://localhost:8080/api/usersetting/settings"
+    },
+    "auth0": {
+      "clientid": "rvA0Atq6hxEmJHVWSFenPTcip6HhGVDT",
+      "domain": "dev-um95566h.auth0.com",
+      "redirecturi": "http://localhost:3000/callback"
+    }
+  }
+}
